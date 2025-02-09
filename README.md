@@ -16,7 +16,7 @@ El objetivo es llegar al otro lado sin ser atropellado.
 Si aún no has clonado el proyecto, usa el siguiente comando en tu terminal para obtener una copia del repositorio:
 
 ```bash
-git clone https://github.com/unai5665/RoadHopper.git
+https://github.com/unai5665/Juego-de-la-rana/tree/local
 ```
 
 
