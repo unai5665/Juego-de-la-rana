@@ -43,11 +43,11 @@ Utiliza el espacio para avanzar.
 
 Interfaz
 
-![Interfaz](https://github.com/unai5665/UnityProjects/blob/master/InterfazJuegoRanaStartScreen.PNG)
+![Interfaz](https://github.com/unai5665/UnityProjects/blob/local/StartScreen.PNG)
 
-![Interfaz](https://github.com/unai5665/UnityProjects/blob/master/InterfazJuegoRanaMainScreen.PNG)
+![Interfaz](https://github.com/unai5665/UnityProjects/blob/local/GameScreen.PNG)
 
-![Interfaz](https://github.com/unai5665/UnityProjects/blob/master/InterfazJuegoRanaVictoryScreen.PNG)
+![Interfaz](https://github.com/unai5665/UnityProjects/blob/local/GameOverScreen.PNG)
 
-![Interfaz](https://github.com/unai5665/UnityProjects/blob/master/InterfazJuegoRanaGameOverScreen.PNG)
+![Interfaz](https://github.com/unai5665/UnityProjects/blob/local/VictoryScreen.PNG)
 
